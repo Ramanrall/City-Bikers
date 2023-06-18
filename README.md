@@ -1,3 +1,9 @@
+## READ ME FILE
+
+## THIS IS CODE FOR CITYBIKERS DATA ANALYSIS
+## OBSERVATIONS + CONCLUSIONS + RECOMENDATIONS
+
+
 install.packages("janitor")  #data cleaning
 install.packages("tidyverse")
 
